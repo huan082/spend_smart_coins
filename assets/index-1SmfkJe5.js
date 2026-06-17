@@ -1,0 +1,1 @@
+import{j as s,N as a}from"./index-BWm_J0aK.js";import{u as r,P as o}from"./useAppStore-CLUiJLns.js";function m(){const t=r(e=>e.user);return r(e=>e.hasHydrated)?s.jsx(a,{to:t?"/home":"/login"}):s.jsx(o,{children:s.jsx("div",{className:"flex-1"})})}export{m as component};
