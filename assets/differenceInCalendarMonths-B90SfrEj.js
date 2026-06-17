@@ -1,1 +1,0 @@
-import{c as s}from"./user-Dcx5OXJ7.js";import{n as i}from"./en-US-DfnapdEA.js";const f=[["path",{d:"m21 21-4.34-4.34",key:"14j7rj"}],["circle",{cx:"11",cy:"11",r:"8",key:"4ej97u"}]],m=s("search",f);function d(r,n,a){const[e,t]=i(a?.in,r,n),o=e.getFullYear()-t.getFullYear(),c=e.getMonth()-t.getMonth();return o*12+c}export{m as S,d};
